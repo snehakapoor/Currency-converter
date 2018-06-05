@@ -1,2 +1,2 @@
 # Currency-converter
-convert one currency into another
+Python program which converts one currency into another
